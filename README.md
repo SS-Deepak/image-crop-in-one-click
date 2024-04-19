@@ -16,8 +16,8 @@ Crop image in single click, in different sizes, 100px, 140px, 200px, 300px
 
 using the following command,
 
-* `s` - for small size cropped image
-* `m` - for medium size cropped image
-* `l` - for large size cropped image
-* `x` - for xtra-large size cropped image
+* `s` - for small size cropped image (100px)
+* `m` - for medium size cropped image (140px)
+* `l` - for large size cropped image (200px)
+* `x` - for xtra-large size cropped image (300px)
 
